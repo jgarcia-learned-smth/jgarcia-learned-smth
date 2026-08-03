@@ -26,7 +26,7 @@
 
 ###
 
-* 💻 **Web Development:** Taking a diploma course to polish my skills in **HTML and CSS**, integrating them with JavaScript, .
+* 💻 **Web Development:** Taking a diploma course to polish my skills in **HTML and CSS**, integrating them with JavaScript.
 * 📁 **Building my Portfolio:** Uploading my practices and projects to GitHub to document my real growth as a developer.
 * 🤝 **Community:** Participant in programming marathons and always eager to help.
 
@@ -35,7 +35,9 @@
 
 <br clear="both">
 
-
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/jgarcia-learned-smth/jgarcia-learned-smth/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
 
@@ -68,4 +70,5 @@
 </div>
 
 ###
+
 
