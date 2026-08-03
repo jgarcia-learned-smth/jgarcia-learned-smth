@@ -26,7 +26,7 @@
 
 ###
 
-* 💻 **Web Development:** Taking a diploma course to polish my skills in **HTML and CSS**, integrating them with JavaScript, .
+* 💻 **Web Development:** Taking a diploma course to polish my skills in **HTML and CSS**, integrating them with JavaScript.
 * 📁 **Building my Portfolio:** Uploading my practices and projects to GitHub to document my real growth as a developer.
 * 🤝 **Community:** Participant in programming marathons and always eager to help.
 
