@@ -67,6 +67,7 @@ export function TaskDetailsPanel({ task, users, commentsById, pending, onUpdateT
       </div>
 
       <RichTextEditor
+        key={task.id}
         value={task.description}
         users={users}
         busy={pending[`task_${task.id}`]}

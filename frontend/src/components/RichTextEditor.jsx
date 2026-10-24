@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from 'react'
+import { useMemo, useState } from 'react'
 
 const formattingOptions = [
   { id: 'bold', label: 'Negrita', command: 'bold' },
@@ -9,11 +9,6 @@ const formattingOptions = [
 export function RichTextEditor({ value, users, onSave, onAttachFiles, busy }) {
   const [draft, setDraft] = useState(value)
   const [mentionTerm, setMentionTerm] = useState('')
-
-  useEffect(() => {
-    setDraft(value)
-    setMentionTerm('')
-  }, [value])
 
   const mentionCandidates = useMemo(() => {
     if (!mentionTerm) {
